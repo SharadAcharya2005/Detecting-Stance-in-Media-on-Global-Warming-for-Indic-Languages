@@ -1,0 +1,4 @@
+Language,Model Type,Model,Accuracy,Macro F1
+English,Transformer,XLM-R,0.755,0.7497
+Bengali,Traditional ML,FastText + Linear SVM,0.635,0.616
+Hindi,Transformer,IndicBERT v2,0.64,0.5823
