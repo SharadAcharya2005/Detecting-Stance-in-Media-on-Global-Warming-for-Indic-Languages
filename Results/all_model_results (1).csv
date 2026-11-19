@@ -1,0 +1,26 @@
+Language,Model Type,Model,Accuracy,Macro F1
+English,Transformer,XLM-R,0.755,0.7497
+English,Transformer,IndicBERT v2,0.735,0.725
+Bengali,Traditional ML,FastText + Linear SVM,0.635,0.616
+English,Traditional ML,FastText + Linear SVM,0.615,0.6038
+Bengali,Traditional ML,FastText + Logistic Regression,0.605,0.5947
+Bengali,Transformer,IndicBERT v2,0.62,0.5883
+English,Traditional ML,Word2Vec + Logistic Regression,0.595,0.5856
+English,Traditional ML,TF-IDF + Logistic Regression,0.58,0.5843
+Hindi,Transformer,IndicBERT v2,0.64,0.5823
+English,Traditional ML,Word2Vec + Linear SVM,0.595,0.5811
+Bengali,Traditional ML,Word2Vec + Linear SVM,0.59,0.5735
+Hindi,Traditional ML,Word2Vec + Linear SVM,0.595,0.5706
+Hindi,Traditional ML,FastText + Linear SVM,0.59,0.5703
+Bengali,Traditional ML,Word2Vec + Logistic Regression,0.57,0.5612
+English,Traditional ML,TF-IDF + Linear SVM,0.565,0.5594
+English,Traditional ML,FastText + Logistic Regression,0.56,0.5535
+Bengali,Traditional ML,TF-IDF + Logistic Regression,0.565,0.5421
+Hindi,Traditional ML,Word2Vec + Logistic Regression,0.54,0.5337
+Hindi,Traditional ML,FastText + Logistic Regression,0.53,0.5258
+Bengali,Traditional ML,TF-IDF + Linear SVM,0.555,0.5237
+Hindi,Traditional ML,TF-IDF + Logistic Regression,0.53,0.5203
+Hindi,Traditional ML,TF-IDF + Linear SVM,0.525,0.5106
+Hindi,Transformer,XLM-R,0.605,0.4471
+Bengali,Transformer,XLM-R,0.425,0.1988
+Bengali,Transformer,XLM-R,0.425,0.1988
